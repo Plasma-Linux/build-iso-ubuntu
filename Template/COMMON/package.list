@@ -129,7 +129,6 @@ psmisc
 rfkill
 rpcbind
 rsync
-sane-utils
 smartmontools
 smxi-inxi-antix
 squashfs-tools
