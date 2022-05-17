@@ -14,11 +14,11 @@ CODE_NAME="Wildflower"
 ASCII_CODE_NAME="Wildflower"
 DEBIAN_RELEASE="bullseye"
 DISTRO_NAME="MX"
-DISTRO_VERSION="21.1_net"
+DISTRO_VERSION="21.1_CLI"
 HOME_URL="https://mxlinux.org"
 ARCH="amd64"
-ISO_FLAV="mxnet64"
-THEME="mxnet"
+ISO_FLAV="mxcli64"
+THEME="mxcli"
 
 #Kernel templates...comment and uncomment depending on what you are building
 #V is K_version of kernel
@@ -40,10 +40,6 @@ MIRROR="us"
 NEW_HOSTNAME="mx1"
 # RELEASE_DATE="May 10,2022"
 TIME_ZONE="America/New_York"
-
-#DE particular items
-X_TERM_EMULATOR="/usr/bin/xfce4-terminal.wrapper"
-CURSOR_ICON_THEME="/usr/share/icons/DMZ-Black/cursor.theme"
 
 #options for building squashfs
 #lz4 is good for testing but large isos
