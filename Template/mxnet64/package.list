@@ -1,7 +1,9 @@
 bluez
 bluez-tools
+desktop-defaults-mx-common
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
 linux-headers-amd64
 linux-image-amd64
 mx-buildiso-dkms
+mx-goodies
