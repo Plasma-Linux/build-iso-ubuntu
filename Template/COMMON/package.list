@@ -75,6 +75,7 @@ gdisk
 glib-networking
 gnupg2
 grub-pc
+grub-efi-amd64-bin
 grub-themes-mx
 gsettings-desktop-schemas
 gstreamer1.0-alsa
