@@ -6,8 +6,6 @@ antix-archive-keyring
 antix-libs
 apt-transport-https
 atmel-firmware
-bluez-firmware
-bluez-obexd
 bootlogd
 broadcom-sta-dkms
 btrfs-progs
@@ -68,11 +66,6 @@ grub-efi-ia32-bin
 grub-pc
 grub-themes-mx
 gsettings-desktop-schemas
-gstreamer1.0-alsa
-gstreamer1.0-libav
-gvfs
-gvfs-backends
-gvfs-fuse
 haveged
 hddtemp
 hdparm
