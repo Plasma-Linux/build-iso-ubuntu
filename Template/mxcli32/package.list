@@ -1,0 +1,10 @@
+ceni
+desktop-defaults-mx-common
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+linux-headers-686-pae
+linux-image-686-pae
+mx-buildiso-dkms
+mx-goodies
+network-manager
+network-manager-sysvinit-compat
