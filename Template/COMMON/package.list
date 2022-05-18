@@ -84,6 +84,7 @@ lm-sensors
 localize-repo-mx
 lockfile-progs
 lsb-release
+lshw
 lsof
 lvm2
 make
