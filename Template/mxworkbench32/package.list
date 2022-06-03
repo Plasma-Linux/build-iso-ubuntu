@@ -111,6 +111,7 @@ gconf-service
 gconf2-common
 gcr
 gdbm-l10n
+gddrescue
 gdebi
 geany
 gftp-gtk
@@ -141,6 +142,7 @@ i2c-tools
 icmpinfo
 idle3-tools
 iftop
+ightdm
 imagemagick
 ioping
 iotop
@@ -162,7 +164,6 @@ kmod
 lame
 lbzip2
 lftp
-ightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-mx21
 lightdm-gtk-greeter-settings
