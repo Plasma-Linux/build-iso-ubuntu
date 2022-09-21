@@ -9,7 +9,6 @@ apt-utils
 arandr
 arc-theme
 #arp-scan
-atmel-firmware
 baobab
 base-files
 base-passwd
@@ -57,25 +56,6 @@ fdisk
 featherpad
 feh
 file-roller
-#firmware meta package for MX
-firmware-amd-graphics
-firmware-atheros
-firmware-bnx2
-firmware-bnx2x
-firmware-brcm80211
-firmware-intel-sound
-firmware-intelwimax
-firmware-ipw2x00
-firmware-iwlwifi
-firmware-libertas
-firmware-linux-free
-firmware-linux-nonfree
-firmware-misc-nonfree
-firmware-myricom
-firmware-netxen
-firmware-qlogic
-firmware-realtek
-firmware-zd1211
 fonts-vlgothic
 fonts-wqy-microhei
 formatusb
@@ -96,6 +76,9 @@ gstreamer1.0-pulseaudio
 gtk2-engines-murrine
 gtkdialog
 gzip
+gvfs
+gvfs-backends
+gvfs-fuse
 hardinfo
 #hfsplus
 #hfsprogs
@@ -106,7 +89,6 @@ hardinfo
 hunspell-en-gb
 hunspell-en-us
 #i386
-iproute2
 iptables
 isc-dhcp-client
 isc-dhcp-common
@@ -263,7 +245,6 @@ qpdfview
 readline-common
 #reiser4progs
 #resolvconf
-rsyslog
 sendemail
 sensible-utils
 #smbc

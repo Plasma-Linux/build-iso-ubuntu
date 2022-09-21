@@ -44,7 +44,6 @@ drkonqi
 ffmpegthumbnailer
 ffmpegthumbs
 filelight
-firmware-sof-signed
 flac
 foliate
 fonts-vlgothic #Japanese
@@ -187,6 +186,7 @@ mx-sound-theme-borealis
 mx-sound-theme-fresh-and-clean
 mx-system-sounds
 mx-tour
+mx-viewer
 mx-welcome
 mx21-artwork
 mythes-en-us
@@ -275,9 +275,6 @@ qt5-style-kvantum
 qt5-style-plugins
 qtvirtualkeyboard-plugin
 rdesktop
-rtl8812au-dkms 
-rtl8821ce-dkms 
-rtl8821cu-dkms
 sddm
 sddm-modified-init
 sddm-theme-breeze

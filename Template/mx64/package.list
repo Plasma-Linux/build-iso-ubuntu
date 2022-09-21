@@ -17,7 +17,6 @@ arc-theme
 aspell
 aspell-en
 asunder
-atmel-firmware
 #b43-fwcutter
 baobab
 bash-config
@@ -69,34 +68,6 @@ fbxkb
 featherpad
 feh
 file-roller
-#firmware meta package for MX
-firmware-amd-graphics
-firmware-atheros
-firmware-bnx2
-firmware-bnx2x
-firmware-brcm80211
-#firmware-cavium #Debian
-#firmware-crystalhd #Debian
-firmware-intel-sound
-firmware-intelwimax
-firmware-ipw2x00
-#firmware-ivtv #Debian
-firmware-iwlwifi
-firmware-libertas
-#firmware-linux #Debian
-firmware-linux-free
-firmware-linux-nonfree
-firmware-misc-nonfree
-firmware-myricom
-firmware-netxen
-firmware-qlogic
-#firmware-ralink
-firmware-realtek
-#firmware-samsung #Debian
-firmware-sof-signed
-#firmware-siano #Debian
-#firmware-ti-connectivity #Debian
-#firmware-zd1211
 flac
 #flashplugin-nonfree
 foliate
@@ -149,6 +120,9 @@ gtk2-engines
 gtkdialog
 #guvcview
 hardinfo
+gvfs
+gvfs-backends
+gvfs-fuse
 #hexchat
 #hibernate
 hicolor-icon-theme
@@ -229,7 +203,6 @@ mugshot
 #mx-antix-libs
 mx-apps
 #mx-bluebird-themes
-#mx-broadcom-manager
 #mx-clocky
 mx-codecs
 mx-conky
@@ -249,6 +222,7 @@ mx-system-sounds
 #mx-timeset-gui
 mx-tour
 mx-usb-unmounter
+mx-viewer
 mx-welcome
 mx21-artwork
 mythes-en-us
@@ -316,9 +290,6 @@ qt5-style-plugins
 #rarian-compat
 #rdesktop
 #rtkit
-rtl8812au-dkms
-rtl8821ce-dkms 
-rtl8821cu-dkms
 #scrollkeeper
 seahorse
 sendemail
@@ -438,5 +409,4 @@ xserver-xorg-video-tdfx
 xserver-xorg-video-trident
 xutils-dev
 yelp
-#zd1211-firmware
 #zukitwo-themes
