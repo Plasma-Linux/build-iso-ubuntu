@@ -13,7 +13,7 @@ busybox
 bzip2
 ca-certificates
 chroot-rescue-mx
-cli-installer-antix
+cli-installer-mx
 cli-shell-utils
 console-data
 console-setup
