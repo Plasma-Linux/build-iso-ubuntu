@@ -123,6 +123,9 @@ psmisc
 rfkill
 rpcbind
 rsync
+rtl8812au-dkms
+rtl8821ce-dkms
+rtl8821cu-dkms
 smartmontools
 smxi-inxi-antix
 squashfs-tools
