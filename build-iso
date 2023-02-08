@@ -494,7 +494,7 @@ Remaster_Blurb
                 ru se si sk tr tw ua uk us
 
     choose "Debian release" DEBIAN_RELEASE \
-                stable testing unstable bullseye bookworm
+                stable testing unstable bullseye bookworm jammy focal bionic
 
     choose "which locales to enable" ENABLE_LOCALES  \
                 "Default (about 60)"                 \
